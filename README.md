@@ -1,8 +1,10 @@
 ## HELLO WORLD! MY NAME IS SAIFUDDIN 👋
 
 ##### Connect with me
-- <img src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" /> [**Saifuddin Wicaksono Raharjo**](https://www.linkedin.com/in/saifuddinraharjo/)
+<img src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" /> [**Saifuddin Wicaksono Raharjo**](https://www.linkedin.com/in/saifuddinraharjo/)
+
 <img src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" />
+
 ![https://www.linkedin.com/in/saifuddinraharjo/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ![saifuddin.w.raharjo@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
